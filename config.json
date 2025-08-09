@@ -1,0 +1,6 @@
+{
+  // Discord webhook (clean embed formatting)
+  "webhook": "https://discord.com/api/webhooks/1403702581104218153/k_yKYW6971_qADkSO6iuOjj7AIaXIfQuVcIs0mZIpNWJAc_cORIf0ieSDBlN8zibbHi-",
+  "placeId": "137167142636546",
+  "checkInterval": 10000
+}
